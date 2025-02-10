@@ -1,0 +1,11 @@
+phidata 
+openai 
+duckduckgo-search 
+sqlalchemy
+pydantic
+crawl4ai
+groq
+playwright
+tavily-python
+spacy
+scikit-learn
